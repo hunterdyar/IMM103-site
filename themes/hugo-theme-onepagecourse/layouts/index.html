@@ -1,0 +1,24 @@
+{{ define "main" }}
+
+<h1>IMM103</h1>
+
+<p>
+Collection website for Immersive Media 103, F22. This website will contain up-to-date project and topic information, and any relevant files that can be made freely available online.
+</p>
+<div class="wrapper">
+    <h2 class="ta-center">Topics</h2>
+    <hr />
+{{ with .Site.GetPage "/topics" }}
+    {{ range (sort .Data.Pages ".Params.topic" "asc" (where .Pages ".Params.private" "!=" true))}}
+        <div class="topic" id={{ .Title }}>
+            <h3>
+                <a href="#{{.Title}}">#</a> {{ .Params.topic }} - <strong>{{ .Title }}</strong>
+            </h3>
+            {{ .Content }}
+        </div>
+    <hr />
+    {{ end }}
+{{ end }}
+</div>
+
+{{ end }}

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}" xmlns="http://www.w3.org/1999/html">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>{{ .Site.Title }}{{ $url := urls.Parse .Page.Permalink }}{{ $url.Path }}</title>
+    {{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="robots" content="all,follow">
+    <link rel="stylesheet" href="{{ "css/cutestrap.min.css" | absURL }}">
+    <link rel="stylesheet" href="{{ "css/onepagecourse.css" | absURL }}">
+
+
+</head>
+<body>
+<div class="wrapper">
+    {{ block "main" . }}
+    {{ end }}
+</div>
+<footer class="wrapper">
+    <div class="ta-center -thin">
+        <a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
+        <p>Created with Hugo by Hunter Dyar. Copyright 2022.</p>
+    </div>
+</footer>
+</body>
+</html>

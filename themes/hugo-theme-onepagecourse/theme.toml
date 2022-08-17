@@ -1,0 +1,11 @@
+name = "hugo-theme-onepagecourse"
+license = "MIT"
+description = "A minimal one-page site for students to find links to course downloads."
+tags = ["portfolio","clean", "personal", "minimal", "monotone", "simple"]
+features = []
+min_version = "0.81.0"
+
+[author]
+    name = "Hunter Dyar"
+    homepage = "https://hdyar.com"
+    github = "https://github.com/hunterdyar"
