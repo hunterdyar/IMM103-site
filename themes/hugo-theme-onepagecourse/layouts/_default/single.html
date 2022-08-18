@@ -1,0 +1,13 @@
+{{ define "main" }}
+
+<article class="wrapper">
+  <header>
+    <h1>{{ .Title }}</h1>
+  </header>
+  {{ .Content }}
+</article>
+<footer>
+  <hr />
+  <a href="{{ ref . "/" }}">Home</a> | <a href="{{ ref . "Assignments" }}">All Assignments</a>
+  </footer>
+{{ end }}
