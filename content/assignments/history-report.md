@@ -38,4 +38,10 @@ Almost all assignments for IMM103 will likely require attribution, so take this 
 11. The Oculus DK1
 12. NASA Virtual Interface Environment Workstation (VIEW)
 13. Google Cardboard
-14. 
+14. Playstation VR
+15. Sword of Damocles
+16. Forte VGX1 Headgear
+17. Leap Motion
+18. Placeholder (Brenda Laurel)
+19. Microsoft HoloLens
+20. Pokemon Go
