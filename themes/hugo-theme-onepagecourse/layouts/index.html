@@ -7,14 +7,15 @@ Collection website for Immersive Media 103, F22. This website will contain up-to
 </p>
 <div class="wrapper">
   <hr />
-<h4 class="ta-center">Course Details</h4>
+<h3 class="ta-center">Course Details</h3>
 <p><strong>Meeting Times:</strong> Section 1: TBD. Section 2: TBD
   </p>
   <p>
     <strong>Office Hours:</strong> TBD
     </p>
+    <p><a href={{ref . "assignments"}}> All Assignments</a>
     <hr />
-    <h2 class="ta-center">Topics</h2>
+    <h3 class="ta-center">Topics</h3>
 {{ with .Site.GetPage "/topics" }}
     {{ range (sort .Data.Pages ".Params.topic" "asc" (where .Pages ".Params.private" "!=" true))}}
         <div class="topic" id={{ .Title }}>
