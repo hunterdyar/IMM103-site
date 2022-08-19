@@ -1,6 +1,6 @@
 ---
 title: 3D Models
-topic: 9
+topic: 7
 ---
 
 - **Lecture**: The 3D Models Lecture

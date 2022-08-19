@@ -1,6 +1,6 @@
 ---
 title: Human-Centered Design
-topic: 7
+topic: 8
 ---
 - **Lecture**: HCD101 & Design Prompts Exercise
 - **Readings**: The Design of Everyday Things
