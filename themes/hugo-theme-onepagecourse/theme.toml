@@ -4,6 +4,7 @@ description = "A minimal one-page site for students to find links to course down
 tags = ["portfolio","clean", "personal", "minimal", "monotone", "simple"]
 features = []
 min_version = "0.81.0"
+baseURL = "https://imm103.hdyar.com"
 
 [author]
     name = "Hunter Dyar"
