@@ -1,6 +1,6 @@
 ---
 title: Into VR
-topic: 8
+topic: 9
 ---
 - **Lecture**: VR Locomotion: Design Notes and Solutions
 - **Assignment**: Deploy to the Quest
