@@ -1,6 +1,7 @@
 ---
 title: History Report
 layout: assignment
+order: 1
 ---
 ## Overview
 Write a short report on an assigned topic related to the history of immersive media. Topics will be assigned during class from the list below. Your report must fit on a single 8 ½ x 11” piece of paper and roughly fit into the template on the following page. You must include at least one image, and attribution for all image and information sources.

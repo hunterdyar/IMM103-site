@@ -3,7 +3,7 @@ title: Game Design
 topic: 6
 ---
 - **Lecture**: Introduction to Game Design
-- **Assignment**: Game Design Analysis
+- **Assignment**: [Game Design Analysis]({{< ref "assignments/game-design-analysis.md">}})
 - **Readings**: [Homo Ludens for the People](http://www.mattiebrice.com/homo-ludens-for-the-people/) | [How To Keep Players Engaged (without being evil)](https://www.youtube.com/watch?v=hbzGO_Qonu0) | [How Game Designers Protect Players From Themselves](https://www.youtube.com/watch?v=7L8vAGGitr8)
 - **Links**:
   - [Rick and Morty: Virtual Rick-ality Postmortem: VR Lessons *Burrrp* Learned](https://www.youtube.com/watch?v=LMbx_PxXZAE)

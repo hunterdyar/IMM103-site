@@ -1,6 +1,7 @@
 ---
 title: Create A Soundscape
 layout: Assignment
+order: 5
 ---
 A Soundscape is an 'acoustic environment'. It's one or more sounds that
 forms a perceived environment. In digital media and media production, we

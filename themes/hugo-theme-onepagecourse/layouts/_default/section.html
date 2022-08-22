@@ -9,7 +9,7 @@
 <article>
   <header><h1>{{ .Title | default "Posts" | humanize }}</h1></header>
   <ul class="archive">
-    {{- range $Pages }}
+    {{- range .Pages.ByParam "order" }}
     <li>
       <a href="{{ .Permalink }}">{{ .Title }}</a>
     </li>
