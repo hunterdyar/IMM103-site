@@ -22,6 +22,14 @@ The topics will be printed out and arranged along a timeline. You must include a
 ## Attribution
 Almost all assignments for IMM103 will likely require attribution, so take this opportunity to be sure to learn a workflow. I do not enforce a particular style of formatting – you can use what you are used to, so long as it meets certain minimum requirements that are laid out in the syllabus. I strongly encourage Chicago style. If you are wondering if you need attribution for something, then you do. This includes any quotes, information sources, and images.
 
+## Purpose
+- Engage in professional writing
+- Engage with history topic
+
+## Submission
+- Upload your document to brightspace as a .docx, pdf, or other print-ready format.
+- Additionally, bring in a printed copy of the assigment, to be assembled with everyone else's in a large history timeline.
+
 ## Template
 [Download](/assignmentInfo/IMM103-HistoryReportTemplate.docx) a template document. You are not required to use the template.
 
