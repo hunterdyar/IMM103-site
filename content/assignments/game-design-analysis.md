@@ -8,6 +8,14 @@ sentences, it might be more. There is no minimum word count to the
 assignment, but one may be asked to revise incomplete submissions or
 re-do the assignment on a new game.
 
+### Purpose
+- Engage in college-level writing
+- Gain practice critically analyzing published experiences and attempting to form opinions on them
+- Reinforce game design concepts
+- Analyze an application of the game design concepts covered during the lecture
+
+### Prompts
+
 You must either choose a game from the provided list, or get approval on the game you choose from the instructor.
 
 1.  In a few sentences, describe the game and your experience, feelings,
