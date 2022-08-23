@@ -1,5 +1,5 @@
 ---
-title: Proprioception & Vision
+title: Perception of Space & Vision
 topic: 3
 ---
 - **Lecture**: [How We Perceive Space: Vision](https://impr.hdyar.com/notes/perceivingSpaceVision.html)
