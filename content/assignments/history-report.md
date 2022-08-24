@@ -30,6 +30,12 @@ Almost all assignments for IMM103 will likely require attribution, so take this 
 - Upload your document to brightspace as a .docx, pdf, or other print-ready format.
 - Additionally, bring in a printed copy of the assigment, to be assembled with everyone else's in a large history timeline.
 
+## Late
+This assignment does **not** follow the syllabus late policy. The following policy overrides it in the following ways.
+  - 0 days late: 1-5% penalty
+  - Less than 2 weeks late: 10-30% penalty.
+  - Greater than 2 weeks late: The student will receive a 0 for the assignment, and it will not be accepted.
+
 ## Template
 [Download](/assignmentInfo/IMM103-HistoryReportTemplate.docx) a template document. You are not required to use the template.
 
