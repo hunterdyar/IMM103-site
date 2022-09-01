@@ -8,7 +8,7 @@ Write a short report on an assigned topic related to the history of immersive me
 Report
 
 While there is no minimum word count, you report should include the following:
--	When?  Relevant dates (start/end, creation, first publication, etc; as precise as available up to the month.)
+-	When?  Relevant dates (start/end, creation, first publication, etc; as precise as available or up to the month.)
 -	Who? Name the significant individuals or companies involved.
 -	What? Describe the topic in enough detail to give an informed reader (your peers) a solid understanding of what the thing was.
 -	Why?  Inform the reader why this thing is interesting in the context of immersive media history.
@@ -20,15 +20,15 @@ The report should be about 2 paragraphs. Of these, the when/who/what should be s
 The topics will be printed out and arranged along a timeline. You must include at least one image of the topic and are free to include more as you deem appropriate. The images should help clarify the points you are making in your report.
 
 ## Attribution
-Almost all assignments for IMM103 will likely require attribution, so take this opportunity to be sure to learn a workflow. I do not enforce a particular style of formatting – you can use what you are used to, so long as it meets certain minimum requirements that are laid out in the syllabus. I strongly encourage Chicago style. If you are wondering if you need attribution for something, then you do. This includes any quotes, information sources, and images.
+Almost all assignments for IMM103 will likely require attribution, so take this opportunity to be sure to learn a workflow for tracking your research notes as you work. I do not enforce a particular style of formatting – you can use what you are used to - so long as it meets certain minimum requirements that are laid out in the syllabus. If you are wondering if you need attribution for something, then you do. This includes any quotes, information sources, and images.
 
 ## Purpose
 - Engage in professional writing
-- Engage with history topic
+- Engage with a history topic
 
 ## Submission
 - Upload your document to brightspace as a .docx, pdf, or other print-ready format.
-- Additionally, bring in a printed copy of the assigment, to be assembled with everyone else's in a large history timeline.
+- Additionally, bring in a printed copy of the assignment, to be displayed aside everyone else's in a timeline.
 
 ## Late
 This assignment does **not** follow the syllabus late policy. The following policy overrides it in the following ways.
@@ -60,3 +60,6 @@ This assignment does **not** follow the syllabus late policy. The following poli
 18. Placeholder (Brenda Laurel)
 19. Microsoft HoloLens
 20. Pokemon Go
+21. Flight Simulators
+22. Leap Motion
+23. Lenovo Mirage
