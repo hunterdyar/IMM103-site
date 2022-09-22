@@ -48,6 +48,8 @@ You must submit **documentation** of your project. You are not submitting your p
   - Descibe what the space is in your own words.
   - Describe how you want the user to feel.
 
+See the [Capture Tools](https://guidebook.hdyar.com/docs/digital-media-fundamentals/capture-tools/) page in the guidebook for how to grab images and record video from your computer screen).
+
 ### Rubric
 - Assignment meets all submission listed requirements.
 - Is there a single strong artistic conceit to the space?
