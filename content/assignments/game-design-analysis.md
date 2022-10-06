@@ -82,4 +82,8 @@ the games before picking one to dive deep on. Most of the games here can be expl
 -   <https://kebabskal.itch.io/pink-river>
 -   <https://radiatoryang.itch.io/radiator2> (Content Warning. You can
     choose any one of the three in this collection)
+-   <https://gallsy.itch.io/telephone-trouble>
 -   <https://beepyeah.itch.io/tiny-golf-puzzles>
+-   <https://x310.itch.io/dice-is-the-way>
+-   <https://frogrammer.itch.io/oddwood>
+-   <https://blooper.itch.io/par-one>
