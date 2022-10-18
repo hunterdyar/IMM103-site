@@ -9,14 +9,15 @@ Create a render in blender.
 - Upload a screenshot of the blender scene and outliner for academic integrity purposes.
 
 ## Technical Requirements
-- 16:9 aspect "widescreen" ratio. (i.e.: 1920x1080)
-- No animation allowed
-- No missing elements of the render (it is not "on transparent")
+- 16:9 aspect "widescreen" ratio. (i.e.: 1920x1080) or 9:16 (1080p but vertical).
+- Animation is discouraged.
+- Must be a full render "scene" - no solid color or transparent image backdrop.
 - Significant models are original creations. You can use external assets/textures/hdris/models, etc. This is vague, because "it depends". If you are even slightly worried that your work is not original enough, simply ask for approval.
 - Texturing is encouraged, but a non-textured aesthetic is permitted.
 
 ## Creative Requirements
 - You have freedom to make what you want. Realistic or stylized. Environment or indoor. Realistic or fantasy. The only rule: It can not be abstract. No desktop backgrounds. It must contain *things* that are *identifiable*.
+- This render must be an original composition.
 - Render must be a scene, not a "product shot" of a single model.
 - Create at least 2-3 original 3D models to use in your scene.
   - A room/backdrop/terrain counts as a model. An HDRi or skybox does not.
