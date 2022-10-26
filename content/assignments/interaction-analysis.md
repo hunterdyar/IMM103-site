@@ -31,7 +31,7 @@ The perception map is a list of all of the various sensory elements of the inter
 
 Create a 2x6 grid with: Sight, Hearing, Touch, Vestibular, Proprioception, and Agency.
 
-![Sensory Map](/assignentInfo/sensorymap.png)
+![Sensory Map](/sensorymap.png)
 
 Fill in each square to the best of your ability.
 
