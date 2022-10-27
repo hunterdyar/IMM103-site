@@ -5,16 +5,27 @@ title: Interaction Analysis
 ## Objective
 Break an interaction of choice down, “Breakdown of & Lessons Learned from xyz”. Choose a specific interaction or or interactive moment from a published VR or AR experience.
 
-The analysis must include:
--	Overview: What is the experience, what is the interaction.
+The analysis must include the following 4 sections:
+-	Overview
 -	A detailed user walkthrough of the experience (signifiers, feedback, etc.)
 -	A sensory map
 -	3 Lessons Learned (2 positive, 1 negative)
+
+Don't forget to also include your name, class/section, and assignment title somewhere.
 
 ## Submission
 Upload a print-ready document (.pdf, word)
 
 ## Details
+
+### Overview
+Self explanatory. Context that makes the rest of the assignment make sense for myself, who may not have played this experience.
+
+- What is the experience
+- What is the interaction
+- When in the experience do you hit the interaction
+- Any other neccesary context, like experience genre or emotional/physical state of the user.
+
 ### User Walkthrough
 A user walkthrough is a step-by-step timeline of a typical user interaction. An interaction can be storyboarded as a sequence of moments, where each moment has an input, decision, and output.
 
@@ -35,14 +46,14 @@ Create a 2x6 grid with: Sight, Hearing, Touch, Vestibular, Proprioception, and A
 
 Fill in each square to the best of your ability.
 
-## Lessons Learned
+### Lessons Learned
 Think a “Best Practice” guide for implementing this kind of interaction elsewhere. In other words, consider “What did they do well?” and  “What did they not do well?” but written in the form/tone of advice.
 
 Your must include 3 specific lessons about implementing this kind of interaction well. 2 should be looking at what the interaction succeeds at, 1 where the interaction could be improved on.
 
 Consider the inputs, outputs, and how the decisions are set up (review your walkthrough) to help you identify. This element is somewhat subjective.
 
-#### Examples
+#### Examples of Lessons Learned
 > In Garden Of The Sea, all of the menu interactions have a goo-ey pink feel to them, which contrasts with the more solid/grounded ‘of the world’ items, and helps you quickly identify what elements behave differently or ‘non realistically (in this world). When developing menus in VR, we often use elements that are perceptively ‘in the world’, but not ‘of the world’. A clear visual, animated, and auditory motif’s to distinguish these elements is critical in VR, where what is and is not a ‘menu’ many not otherwise be clear.
 
 
