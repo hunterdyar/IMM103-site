@@ -46,3 +46,14 @@ We express our identities constantly: The clothing and styles we choose, how we 
 A "Gesture" face filter must provide a secondary communicative expression that allows for richer communication. It is not necessarily merely amplifying an expression. It could involve layers of subtext or an ironic reversal. These are depths of communication we constantly use in face-to-face conversation but are more limited in informal writing (ie: texting). Emoji, emoticons, animated gifs, punctuation, and **TeXt** *StyLinG* can all act as a gesture or indicator of tone. Face filters open new doors to gesture, allowing one to use the personal expressiveness of facial expressions, elements of film composition (like timing, montage/cuts, juxtaposition, and framing) and juxtapositions with content like sound effects, on screen image elements, and more.
 
 See the McCulloch reading for mroe on Gesture.
+
+#### Notes on Artist Statement
+Consider the following questions:
+- "Why is someone using this filter?"
+- "What is this filter helping someone communicate?"
+- "Why is this interesting to me?"
+- "Who cares?"
+- "What do I need to know in order to understand this filter?"
+
+#### Examples
+*See Hunter for Student Examples.*
