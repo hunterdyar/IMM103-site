@@ -57,4 +57,18 @@ Consider the following questions:
 - "What should I be thinking about as I use the filter?"
 
 #### Examples
-*See Hunter for Student Examples.*
+*See Hunter for visuals.*
+
+Some Previous Student Projects:
+- Fox from Melee Mask ("I am being competitive")
+- "WAT" (A gesture that emphasized sudden confusion)
+- Mandelorian Helmet (an identity of fandom)
+- Butterflyface (A satirical identity of makeup user)
+- Elephant in The Room (ie: feeling like a wallflower)
+- Dead Tired (gesture borrowing imagery from cartoons)
+- Deal With it Sunglasses (Gesture allowing one to imitate popular gif)
+- Anime Glasses Sheen/Sparkle (Gesture for "This is Serious")
+- Today is Football (soccarball head, ironic imagery to express for "I don't understand sports")
+- Chewbacca (identity of fandom. Notably fun as a visual way to encourage one to (attempt to) make the noise)
+- It's [time] and I'm RUNNING LATE (Gesture)
+- Courage the Cowardly Dog Mask (Gesture to react to or consider something as scary)
