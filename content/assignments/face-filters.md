@@ -54,6 +54,7 @@ Consider the following questions:
 - "Why is this interesting to me?"
 - "Who cares?"
 - "What do I need to know in order to understand this filter?"
+- "What should I be thinking about as I use the filter?"
 
 #### Examples
 *See Hunter for Student Examples.*
