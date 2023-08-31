@@ -4,7 +4,9 @@ layout: assignment
 order: 1
 ---
 ## Overview
-Write a short report on an assigned topic related to the history of immersive media. Topics will be assigned during class from the list below. Your report must fit on a single 8 ½ x 11” piece of paper and roughly fit into the template on the following page. You must include at least one image, and attribution for all image and information sources.
+Write a short report on an assigned topic related to the history of immersive media. Topics will be assigned during class from the list below. Your report must fit on a single 8 ½ x 11” piece of paper and roughly fit into the template. You must include at least one image, and attribution for all image and information sources.
+
+
 Report
 
 While there is no minimum word count, you report should include the following:
@@ -20,7 +22,8 @@ The report should be about 2 paragraphs. Of these, the when/who/what should be s
 The topics will be printed out and arranged along a timeline. You must include at least one image of the topic and are free to include more as you deem appropriate. The images should help clarify the points you are making in your report.
 
 ## Attribution
-Almost all assignments for IMM103 will likely require attribution, so take this opportunity to be sure to learn a workflow for tracking your research notes as you work. I do not enforce a particular style of formatting – you can use what you are used to - so long as it meets certain minimum requirements that are laid out in the syllabus. If you are wondering if you need attribution for something, then you do. This includes any quotes, information sources, and images.
+Almost all assignments for IMM103 will require attribution, so take this opportunity to be sure to learn a workflow for tracking your research notes as you work. I do not enforce a particular style of formatting – you can use what you are used to - so long as it meets certain minimum requirements that are laid out in the syllabus. If you are wondering if you need attribution for something, then you do. This includes any quotes, information sources, and images.
+Attriution can be submitted separately from the document on brightspace in a text file.
 
 ## Purpose
 - Engage in professional writing
@@ -65,3 +68,5 @@ This assignment does **not** follow the syllabus late policy. The following poli
 23. Lenovo Mirage
 24. VPL Dataglove
 25. Varjo XR-1
+26. XReal (was NReal)
+27. Apple Vision Pro
