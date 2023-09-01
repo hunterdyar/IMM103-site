@@ -64,7 +64,6 @@ This assignment does **not** follow the syllabus late policy. The following poli
 19. Microsoft HoloLens
 20. Pokemon Go
 21. Flight Simulators
-22. Leap Motion
 23. Lenovo Mirage
 24. VPL Dataglove
 25. Varjo XR-1
