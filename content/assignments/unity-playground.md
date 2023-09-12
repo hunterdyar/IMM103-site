@@ -27,6 +27,8 @@ order: 2
 ### Submission
 Take a screenshot of your Hierarchy window, and of your game window. Upload it for the assignment before class. During class, We will go around and share our creations.
 
+Don't forget the readme.txt file (see syllabus for details).
+
 ### Becoming an Expert on one "thing"
 
 How do you become an expert on one little part of unity? Research! Look
