@@ -34,6 +34,7 @@ aiming for.
 
 ## Requirements
 
+-   Inspiration Image
 -   At least four sourced audio files
     -   They do not need to be 'diagetic'. Music/VO is okay.
     -   They do not need to be recorded.
