@@ -6,7 +6,7 @@ Create two face filters using Lens Studio and write a document for them.
 
 The filters do not need to be published, they will be judged entirely in via their documentation.
 
-One filter should facilitate "gesture", and the other should facilitate "expressing an identity/sense of self".
+Face Filters must be either of type "gesture" or of type "identity". They cannot merely be fun or intereting, although we love that. You must write an artist statement that explains how the filter achieves it's intended goals.
 
 ### Submission
 The filters will be graded without being installed or used. This means teh full documentation of the face filters in use is, really, the focus.
