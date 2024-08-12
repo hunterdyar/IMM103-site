@@ -31,6 +31,4 @@ I am looking for the following criteria:
 
 ### Links
 
-- [Zero To Quest (Part 1: Developer Mode Setup)](https://impr.hdyar.com/guides/zeroToQuest.html)
-- [Zero to VR With Ultimate XR](https://guidebook.hdyar.com/docs/unity/virtual-reality/zero-to-quest-ultimate-xr/)
-- [How To Use UltimateXR](https://guidebook.hdyar.com/docs/unity/virtual-reality/how-to-use-ultimate-xr/)
+*Note: Zero-To-Quest steps update for F24 TBD*
