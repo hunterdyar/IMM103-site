@@ -22,3 +22,7 @@ This assignment is that *part* of a design process, ("Showing the parts that mat
 
 Next, we will do it again, basically, but in 3D and with a critical eye to perspective and depth signifiers.
 
+## Inspiration
+- See my very long "Baum Boulevard" Photograph
+- [Jacob Kedzierski Street sign Collage](https://petapixel.com/2013/04/10/photographer-creates-a-massive-collage-using-every-street-sign-in-manhattan/)
+- [Fong Qi Wei - Time is a Dimension](https://www.arch2o.com/time-is-a-dimension-fong-qi-wei/)
