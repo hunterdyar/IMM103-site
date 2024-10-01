@@ -1,8 +1,8 @@
 ---
 title: Augmented Reality
-topic: 10
+topic: 9
 ---
-- **Assignment**: [Face Filters]({{< ref "assignments/face-filters.md" >}})
+- **Assignment**: [Face Filters]({{< ref "assignments/face-filters.md" >}} )
 - **Lecture 1**: AR Lecture pt. 1
 - **Studio**: Lens Studio Playground
 - **Lecture 2**: AR Lecture pt. 2

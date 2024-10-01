@@ -1,6 +1,7 @@
 ---
 title: Game Design
 topic: 6
+draft: true
 ---
 - **Lecture**: Introduction to Game Design
 - **Assignment**: [Game Design Analysis]({{< ref "assignments/game-design-analysis.md">}})
