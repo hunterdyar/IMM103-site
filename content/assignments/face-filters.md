@@ -2,6 +2,13 @@
 title: Face Filters
 ---
 
+Below, unedited, is the original 'Face Filters' assignment. 
+It is not being assigned this year, but one can complete half of it (one face filter + documentation) for extra credit.
+
+See [Lens Studio](https://lensstudio.snapchat.com/).
+
+---
+
 Create two face filters using Lens Studio and write a document for them.
 
 The filters do not need to be published, they will be judged entirely in via their documentation.

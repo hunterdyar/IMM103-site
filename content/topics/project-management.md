@@ -1,6 +1,6 @@
 ---
 title: Project Management / Final Project
-topic: 10
+topic: 11
 ---
 - **Lecture**: Project Management Tools & Techniques
 - **Assignment**: [Final Project]({{< ref "assignments/final-project-poem.md">}})
