@@ -22,8 +22,10 @@ The report should be about 2 paragraphs. Of these, the when/who/what should be s
 The topics will be printed out and arranged along a timeline. You must include at least one image of the topic and are free to include more as you deem appropriate. The images should help clarify the points you are making in your report.
 
 ## Attribution
-Almost all assignments for IMM103 will require attribution, so take this opportunity to be sure to learn a workflow for tracking your research notes as you work. I do not enforce a particular style of formatting – you can use what you are used to - so long as it meets certain minimum requirements that are laid out in the syllabus. If you are wondering if you need attribution for something, then you do. This includes any quotes, information sources, and images.
+Almost all assignments for IMM103 will require attribution, so take this opportunity to be sure to learn a workflow for tracking your research notes as you work. I do not enforce a particular style of formatting (MLA/APL/etc) – you can use what you are used to - so long as it meets certain minimum requirements that are laid out in the syllabus. If you are wondering if you need attribution for something, then you do. This includes any quotes, information sources, and images.
 Attriution can be submitted separately from the document on brightspace in a text file.
+
+A bibliography is required for this assignment. It can be in the readme.
 
 ## Purpose
 - Engage in professional writing
